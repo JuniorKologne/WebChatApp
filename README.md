@@ -6,7 +6,7 @@ Elle repose sur une architecture **Node.js / Express.js** pour le backend et uti
 
 ---
 
-## 🚀 Fonctionnalités principales
+## Fonctionnalités principales
 
 - **Envoi et réception de messages** entre utilisateurs.  
 - **Groupes de discussion** pour des conversations collectives.  
